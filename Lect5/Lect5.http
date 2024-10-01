@@ -1,0 +1,6 @@
+@Lect5_HostAddress = http://localhost:5216
+
+GET {{Lect5_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
