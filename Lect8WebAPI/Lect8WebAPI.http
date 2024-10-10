@@ -1,0 +1,6 @@
+@Lect8WebAPI_HostAddress = http://localhost:5032
+
+GET {{Lect8WebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
